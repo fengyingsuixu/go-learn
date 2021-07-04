@@ -56,6 +56,7 @@ func countLines(f * os.File, counts map[string]int){
 	}
 }
 
+//f.txt
 func PrintInput3(){
 	counts := make(map[string]int)
 	for _, fileName := range os.Args[1:]{

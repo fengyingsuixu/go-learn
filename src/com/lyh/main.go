@@ -25,5 +25,7 @@ func main(){
 
 	chapter01.PrintInput3()
 
-	chapter01.Animation()
+	//chapter01.Animation()
+
+	chapter01.HttpContent()
 }

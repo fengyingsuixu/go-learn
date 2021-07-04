@@ -46,9 +46,10 @@ func lissajous (out io.Writer){
 	gif.EncodeAll(out, &anim)
 }
 
+//web
 func Animation(){
 	rand.Seed(time.Now().UTC().UnixNano())
-	if len(os.Args) > 1 && os.Args[2] == "web"{
+	if len(os.Args) > 1 && os.Args[1] == "web"{
 		handler := func(w http.ResponseWriter, r *http.Request){
 			lissajous(w)
 		}
