@@ -12,4 +12,10 @@ func main(){
 	chapter01.OsParam2()
 
 	chapter01.OsParam3()
+
+	chapter01.Practice1()
+
+	chapter01.Practice2()
+
+	chapter01.Practice3()
 }
