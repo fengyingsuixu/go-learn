@@ -1,7 +1,9 @@
 package chapter01
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func HelloWorld(){
-	fmt.Printf("Hello,世界")
+	fmt.Println("Hello,世界")
 }
