@@ -18,4 +18,10 @@ func main(){
 	chapter01.Practice2()
 
 	chapter01.Practice3()
+
+	//chapter01.PrintInput1()
+
+	chapter01.PrintInput2()
+
+	chapter01.PrintInput3()
 }
