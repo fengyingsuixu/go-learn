@@ -30,4 +30,6 @@ func main(){
 	chapter01.HttpContent()
 
 	chapter01.HttpAll()
+
+	chapter01.Start()
 }
