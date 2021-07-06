@@ -1,6 +1,9 @@
 package main
 
-import "com/lyh/chapter01"
+import (
+	"com/lyh/chapter01"
+	"com/lyh/chapter02"
+)
 
 func main(){
 	chapter01.HelloWorld()
@@ -31,5 +34,14 @@ func main(){
 
 	chapter01.HttpAll()
 
-	chapter01.Start()
+	//chapter01.Start()
+
+
+	chapter02.WaterBoiling()
+
+	chapter02.SwitchResult()
+
+	chapter02.TestFlag()
+
+	chapter02.TypeConv()
 }
