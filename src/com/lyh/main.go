@@ -3,6 +3,7 @@ package main
 import (
 	"com/lyh/chapter01"
 	"com/lyh/chapter02"
+	"com/lyh/chapter03"
 )
 
 func main(){
@@ -44,4 +45,10 @@ func main(){
 	chapter02.TestFlag()
 
 	chapter02.TypeConv()
+
+	chapter03.IntPrint()
+
+	chapter03.FloatPrint()
+
+	chapter03.ComplexPrint()
 }
