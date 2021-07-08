@@ -51,4 +51,8 @@ func main(){
 	chapter03.FloatPrint()
 
 	chapter03.ComplexPrint()
+
+	chapter03.BoolPrint(true)
+
+	chapter03.StringPrint()
 }
