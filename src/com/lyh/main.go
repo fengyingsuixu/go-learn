@@ -4,6 +4,7 @@ import (
 	"com/lyh/chapter01"
 	"com/lyh/chapter02"
 	"com/lyh/chapter03"
+	"com/lyh/chapter04"
 )
 
 func main(){
@@ -55,4 +56,6 @@ func main(){
 	chapter03.BoolPrint(true)
 
 	chapter03.StringPrint()
+
+	chapter04.PrintArray()
 }
