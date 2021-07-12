@@ -58,4 +58,6 @@ func main(){
 	chapter03.StringPrint()
 
 	chapter04.PrintArray()
+
+	chapter04.PrintSlice()
 }
