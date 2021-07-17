@@ -60,4 +60,6 @@ func main(){
 	chapter04.PrintArray()
 
 	chapter04.PrintSlice()
+
+	chapter04.PrintMap()
 }
