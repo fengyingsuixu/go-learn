@@ -65,4 +65,5 @@ func main(){
 
 	chapter04.Job()
 
+	chapter04.PrintJson()
 }
