@@ -62,4 +62,7 @@ func main(){
 	chapter04.PrintSlice()
 
 	chapter04.PrintMap()
+
+	chapter04.Job()
+
 }
