@@ -5,6 +5,7 @@ import (
 	"com/lyh/chapter02"
 	"com/lyh/chapter03"
 	"com/lyh/chapter04"
+	"com/lyh/chapter05"
 )
 
 func main(){
@@ -66,4 +67,6 @@ func main(){
 	chapter04.Job()
 
 	chapter04.PrintJson()
+
+	chapter05.PrintHtml()
 }
